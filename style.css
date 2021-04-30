@@ -256,20 +256,14 @@ footer ul li:hover {
 }
 
 @keyframes btn_hover {
-  from {
-    background-color: transparent;
-  }
   to {
-    border: 2px solid var(--clr-secondary);
+    background-color: #004e99;
   }
 }
 
 @keyframes feature_hover {
-  from {
-    background-color: transparent;
-  }
   to {
-    background-color: #004e99;
+    background-color: red;
   }
 }
 
